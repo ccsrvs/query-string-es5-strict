@@ -35,7 +35,7 @@
     "searchparams"
   ],
   "license": "MIT",
-  "name": "query-string-es5",
+  "name": "query-string-es5-strict",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ccsrvs/query-string-es5-strict.git"

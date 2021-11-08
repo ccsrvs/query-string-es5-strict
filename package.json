@@ -1,7 +1,7 @@
 {
   "bundleDependencies": false,
   "dependencies": {
-    "decode-uri-component": "^0.2.0",
+    "decode-uri-component": "^0.2.0"
   },
   "deprecated": false,
   "description": "Parse and stringify URL query strings - this version is transpiled with babel, and minor manual changes regarding dependecy package for es5 compability.",

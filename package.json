@@ -2,7 +2,6 @@
   "bundleDependencies": false,
   "dependencies": {
     "decode-uri-component": "^0.2.0",
-    "strict-uri-encode": "^2.0.0"
   },
   "deprecated": false,
   "description": "Parse and stringify URL query strings - this version is transpiled with babel, and minor manual changes regarding dependecy package for es5 compability.",
@@ -40,5 +39,5 @@
     "type": "git",
     "url": "git+https://github.com/ccsrvs/query-string-es5-strict.git"
   },
-  "version": "6.1.5"
+  "version": "6.1.6"
 }
